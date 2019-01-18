@@ -13,23 +13,13 @@ You can find some of the insights related to the project in the project submissi
 
 ### Instructions for downloading the database and querying
 
-et's set up your local environment
-It's totally fine to get started learning SQL here in the classroom, but the way to really master your skills is to get a local setup and learn to work within your own environment.
-
-The next few problems are going to help make sure you are comfortable working locally. Once you're set up you'll be able to use this workspace not only for this project...but BEYOND!
-
-The environment we'll use is pretty quick to set up and hopefully you'll be up and running in no time :)
-
-All you'll need to do here is...
-
 Download your new database
 Download DB Browser for SQLite
 As soon as you have DB Broswer for SQLite connected to your new database you're ready for the next page!
 
-Download DB Browser for SQLite
-There are many different database browsers that work with different types of databases. For this course, we'll be using the DB Browser for SQLite. The other browsers you may use will likely be very similar.
+1.  Download DB Browser for SQLite
 
-DB Browser for SQLite can be downloaded here: http://sqlitebrowser.org/
+1.a  DB Browser for SQLite can be downloaded here: http://sqlitebrowser.org/
 
 
 Download Database
