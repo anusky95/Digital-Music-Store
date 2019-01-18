@@ -1,0 +1,7 @@
+#/* Media Type Usage for Tracks */
+SELECT MediaType.Name Media_Type, COUNT(MediaType.MediaTypeId) Num_of_times_played
+FROM Track 
+JOIN MediaType
+ON MediaType.MediaTypeId = Track.MediaTypeId
+GROUP BY MediaType.MediaTypeId
+ORDER BY Num_of_times_played DESC;
